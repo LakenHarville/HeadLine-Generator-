@@ -1,5 +1,5 @@
 '''This project is based on Al Sweigart's work.
-Specifically his book The Big Book of Small Python Projects.'''
+Specifically from his book The Big Book of Small Python Projects.'''
 
 import random
 
